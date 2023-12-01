@@ -1,0 +1,425 @@
+
+{
+	"perguntas": [
+		{
+			"enunciado": "Quem � o irm�o de Kokoshibo em Demon Slayer?",
+			"alternativas": [
+				{
+					"text": " (A) Tanjiro",
+					"correta": false
+				},
+				{
+					"text": " (B) Zenitsu",
+					"correta": false
+				},
+				{
+					"text": " (C) Yoriichi",
+					"correta": false
+				},
+				{
+					"text": " (D) Naruto')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Qual � o personagem mais forte de Jujutsu Kaisen?",
+			"alternativas": [
+				{
+					"text": " (A) Gojo",
+					"correta": false
+				},
+				{
+					"text": " (B) Sukuna",
+					"correta": false
+				},
+				{
+					"text": " (C) Goku",
+					"correta": false
+				},
+				{
+					"text": " (D) Megumin')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quem � o protagonista de Black Clover?",
+			"alternativas": [
+				{
+					"text": " (A) Seya",
+					"correta": false
+				},
+				{
+					"text": " (B) Saitama",
+					"correta": false
+				},
+				{
+					"text": " (C) Asta",
+					"correta": false
+				},
+				{
+					"text": " (D) Deku')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quem � o super-her�i mais conhecido do mundo?",
+			"alternativas": [
+				{
+					"text": " (A) Homem-Aranha",
+					"correta": false
+				},
+				{
+					"text": " (B) Homem de Ferro",
+					"correta": false
+				},
+				{
+					"text": " (C) Super-Homem",
+					"correta": false
+				},
+				{
+					"text": " (D) Batman')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quem � o super vil�o mais famoso?",
+			"alternativas": [
+				{
+					"text": " (A) Hannibal Lecter",
+					"correta": false
+				},
+				{
+					"text": " (B) Coringa",
+					"correta": false
+				},
+				{
+					"text": " (C) Freeza",
+					"correta": false
+				},
+				{
+					"text": " (D) Darth Vader ')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quantos filhos o Rei Dem�nio de Nanatsu no Taizai tem?",
+			"alternativas": [
+				{
+					"text": " (A) 3",
+					"correta": false
+				},
+				{
+					"text": " (B) 2",
+					"correta": false
+				},
+				{
+					"text": " (C) 10",
+					"correta": false
+				},
+				{
+					"text": " (D) 0')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quantas vezes Kuririn morreu para Freeza em Dragon Ball?",
+			"alternativas": [
+				{
+					"text": " (A) 9",
+					"correta": false
+				},
+				{
+					"text": " (B) 2",
+					"correta": false
+				},
+				{
+					"text": " (C) 3",
+					"correta": false
+				},
+				{
+					"text": " (D) 1')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quem � o protagonista em Naruto?",
+			"alternativas": [
+				{
+					"text": " (A) Naruto Shipuden",
+					"correta": false
+				},
+				{
+					"text": " (B) Naruto Uzumaki",
+					"correta": false
+				},
+				{
+					"text": " (C) Ichigo",
+					"correta": false
+				},
+				{
+					"text": " (D) Goku')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": "Quem s�o os encarregados que deveriam defender a Atena em Cavaleiros do Zod�aco?",
+			"alternativas": [
+				{
+					"text": " (A) Ex�rcito Americano",
+					"correta": false
+				},
+				{
+					"text": " (B) Cavaleiros de Ouro",
+					"correta": false
+				},
+				{
+					"text": " (C) Cavaleiros de Prata",
+					"correta": false
+				},
+				{
+					"text": " (D) Cavaleiros de Bronze')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � o vil�o principal de Boku no Hero?",
+			"alternativas": [
+				{
+					"text": " (A) Freeza",
+					"correta": false
+				},
+				{
+					"text": " (B)Ades ",
+					"correta": false
+				},
+				{
+					"text": " (C) All for One",
+					"correta": false
+				},
+				{
+					"text": " (D) Muzan')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � a entidade mais poderosa de Fullmetal Alchemist?",
+			"alternativas": [
+				{
+					"text": " (A) A Ira",
+					"correta": false
+				},
+				{
+					"text": " (B) A Inveja",
+					"correta": false
+				},
+				{
+					"text": " (C) A Verdade",
+					"correta": false
+				},
+				{
+					"text": " (D) A Mentira')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � o anime conhecido por ter mais de mil epis�dios?",
+			"alternativas": [
+				{
+					"text": " (A) Naruto",
+					"correta": false
+				},
+				{
+					"text": " (B) One Piece",
+					"correta": false
+				},
+				{
+					"text": " (C) Cavaleiros do Zod�aco",
+					"correta": false
+				},
+				{
+					"text": " (D) Jojo')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � a s�rie de mang� mais vendida de todos os tempos, com mais de 460 milh�es de c�pias vendidas globalmente?",
+			"alternativas": [
+				{
+					"text": " (A) Dragon Ball",
+					"correta": false
+				},
+				{
+					"text": " (B) Death Note",
+					"correta": false
+				},
+				{
+					"text": " (C) Fullmetal Alchemist",
+					"correta": false
+				},
+				{
+					"text": " (D) One Piece')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � o mang�/anime que se passa em um mundo de alquimia?",
+			"alternativas": [
+				{
+					"text": " (A) Dragon Ball",
+					"correta": false
+				},
+				{
+					"text": " (B) Naruto",
+					"correta": false
+				},
+				{
+					"text": " (C) Sailor Moon",
+					"correta": false
+				},
+				{
+					"text": " (D) Fullmetal Alchemist')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual super-her�i tem o lema 'Com grandes poderes vém grandes responsabilidades'?",
+			"alternativas": [
+				{
+					"text": " (A) Homem-Invis�vel",
+					"correta": false
+				},
+				{
+					"text": " (B) Homem-Aranha",
+					"correta": false
+				},
+				{
+					"text": " (C) Batman",
+					"correta": false
+				},
+				{
+					"text": " (D) Super-Homem')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � o verdadeiro nome do Flash?",
+			"alternativas": [
+				{
+					"text": " (A) Thomas",
+					"correta": false
+				},
+				{
+					"text": " (B) Matthew Murdock",
+					"correta": false
+				},
+				{
+					"text": " (C) Bruce Banner",
+					"correta": false
+				},
+				{
+					"text": " (D) Barry Allen')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Quem � conhecido como o 'Sentinela da Liberdade'?",
+			"alternativas": [
+				{
+					"text": " (A) Pantera Negra",
+					"correta": false
+				},
+				{
+					"text": " (B) Flash",
+					"correta": false
+				},
+				{
+					"text": " (C) Homem-Aranha",
+					"correta": false
+				},
+				{
+					"text": " (D) Capitão América')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual é o verdadeiro nome do herói conhecido como Pantera Negra?",
+			"alternativas": [
+				{
+					"text": " (A) Pantera Negra",
+					"correta": false
+				},
+				{
+					"text": " (B) Bruce Wayne",
+					"correta": false
+				},
+				{
+					"text": " (C) Tony Stark",
+					"correta": false
+				},
+				{
+					"text": " (D) TChalla')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Qual � o nome do vil�o principal no universo do Homem-Aranha, que usa o traje de simbionte preto?",
+			"alternativas": [
+				{
+					"text": " (A) Homem-Invis�vel",
+					"correta": false
+				},
+				{
+					"text": " (B) Venom",
+					"correta": false
+				},
+				{
+					"text": " (C) Batman",
+					"correta": false
+				},
+				{
+					"text": " (D) Homem-Aranha-Preto')",
+					"correta": false
+				}
+			]
+		},
+		{
+			"enunciado": " Quantos dedos Itadori comeu em Jujutsu Kaisen?",
+			"alternativas": [
+				{
+					"text": " (A) 20",
+					"correta": false
+				},
+				{
+					"text": " (B) 15",
+					"correta": false
+				},
+				{
+					"text": " (C) 9",
+					"correta": false
+				},
+				{
+					"text": " (D) 19')",
+					"correta": false
+				}
+			]
+		}
+	]
+}
